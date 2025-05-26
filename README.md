@@ -1,1 +1,1 @@
-My Portfolio link: [https://github.com/vineeth6400/portfolio.git]
+My Portfolio link: [https://vineeth6400.github.io/portfolio/]
